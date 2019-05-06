@@ -8,8 +8,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Data Cleaning and Exploration: R Code"
-      href: Data_Cleaning.html
+      href: data_cleaning_r.html
     - text: "Data Cleaning: Python Code"
-      href: Data_Cleaning_python.html
+      href: data_cleaning_python.html
     - text: "Bayesian Models: R Code"
-      href: Models.html
+      href: models_r.html
