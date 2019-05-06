@@ -1,1 +1,15 @@
 theme: jekyll-theme-slate
+title: Bayesian Analysis of the Bechdel Test
+# --- Navigation bar options --- #
+
+navbar:
+  title: "Bayesian Analysis"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Data Cleaning and Exploration: R Code"
+      href: Data_Cleaning.html
+    - text: "Data Cleaning: Python Code"
+      href: Data_Cleaning_python.html
+    - text: "Bayesian Models: R Code"
+      href: Models.html
