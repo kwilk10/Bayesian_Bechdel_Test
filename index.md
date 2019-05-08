@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-subtitle: Representation of Women in Films
-use-site-title: true
+
 ---
 
 Testing
